@@ -1,4 +1,4 @@
-# Wedding Planner/Prototyp
+# Wedding Planner/Prototype
 
 Uogółniony prototyp aplikacji internetowej oferującej usługi z branży imprezowej.
 
